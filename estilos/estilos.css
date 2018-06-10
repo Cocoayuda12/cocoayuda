@@ -1,0 +1,69 @@
+  body {
+    margin: 10px;
+    padding: 0;
+    background: url(../imagenes/paisaje.jpg);
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+  }
+
+  img.imagen{
+    border-color: #FFFFFF;
+    border-radius: 10px;
+    position: relative;
+    top: 15px;
+    margin: 10px;
+    width: 250px;
+    height: 178px;
+  }
+
+  .titulo{
+    font-size: 48px;
+    color: white;
+  }
+
+  table.tabla{
+    background: #FFFFFF;
+    border: 5px solid #000066;
+    width: 75%;
+    margin: 15px;
+    padding: 50px;
+    text-align: justify;
+    color: black;
+  }
+
+table.tabla p{
+    font-size: 18px;
+    color: black;
+}
+
+table.tabla h1{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+
+table.reg {
+    background: #FFFFFF;
+    border: 5px solid #000066;
+    width: 75%;
+    margin: 15px;
+    padding: 0;
+    text-align: center;
+    color: black;
+}
+
+  img.img{
+    width: 600px;
+    height: 300px;    
+  }
+  
+  .lista li{
+    font-size: 18px;
+    text-align: justify;
+  }
+
+video{
+    width: 700px;
+    height: 400px;
+}
+    
